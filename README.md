@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Amey Manoj 👋
 
-<!--
-**Amey15243/Amey15243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 3rd Year Information Technology Student
+🎓 St. Francis Institute of Technology
+🔐 Honours in Cyber Security
 
-Here are some ideas to get you started:
+🌍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Development, Cyber Security & Web Development
+
+🔐 Exploring Application Security and Threat Detection
+
+🌱 Currently learning Full Stack Development & Cyber Security
+
+🚀 Building practical projects and improving problem-solving skills
