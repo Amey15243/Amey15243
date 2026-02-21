@@ -1,10 +1,10 @@
 # Hi, I'm Amey Manoj 👋
 
-💻 3rd Year Information Technology Student
-🎓 St. Francis Institute of Technology
-🔐 Honours in Cyber Security
+* 💻 3rd Year Information Technology Student
+* 🎓 St. Francis Institute of Technology
+* 🔐 Honours in Cyber Security
 
-## 🌍 About Me
+## About Me
 
 * 💻 Interested in Software Development, Cyber Security & Web Development
 * 🔐 Exploring Application Security and Threat Detection
